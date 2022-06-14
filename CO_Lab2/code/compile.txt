@@ -1,0 +1,1 @@
+iverilog -o a Adder.v ALU.v ALU_Ctrl.v Decoder.v Instr_Memory.v MUX_2to1.v ProgramCounter.v Reg_File.v Shift_Left_Two_32.v Sign_Extend.v Simple_Single_CPU.v Test_Bench.v 
