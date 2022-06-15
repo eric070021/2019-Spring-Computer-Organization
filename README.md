@@ -1,6 +1,6 @@
 # Computer-Organization
 NYCU NCTU
-Computer Organization 李毅郎 
+Computer Organization 李毅郎
 
 ## Program assignment
 >* [Homework 1: 32-bit ALU](/CO_Lab1)
